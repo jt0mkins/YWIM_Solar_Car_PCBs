@@ -1,0 +1,23 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A2,Arduino_Nano,1,Arduino_Nano_v3.x,
+"C1, C3, C6",CP_Radial_D5.0mm_P2.50mm,3,10uF,C216300
+"C2, C4, C9",C_Rect_L7.0mm_W2.5mm_P5.00mm,3,100nF,C1620866
+C5,C_Rect_L7.0mm_W2.5mm_P5.00mm,1,C_Snub,C1620866
+"D1, D12, D13, D16, D17",D_DO-41_SOD81_P7.62mm_Horizontal,5,1N5819, C402218 
+D10,LED_D3.0mm_FlatTop,1,Red,C3001653
+"D11, D14, D15, D18, D19, D20, D4, D5, D6, D7, D8, D9",D_DO-201_P12.70mm_Horizontal,12,1.5KE39CA (TVS),C3034419
+D2,D_DO-41_SOD81_P7.62mm_Horizontal,1,1N5359B,C2903832
+D3,LED_D3.0mm_FlatTop,1,Green,C3001643
+"F1, F2",R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,2,1A,C99566
+"H1, H2, H3, H4",MountingHole_3.2mm_M3_DIN965_Pad,4,M3,
+"J1, J3",TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm,2,Screw_Terminal_01x02,
+J2,AMASS_XT30U-F_1x02_P5.0mm_Vertical,1,XT30,C99101
+J4,PinSocket_1x08_P2.54mm_Vertical,1,Conn_01x08_Socket,
+J5,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03_Socket,
+"R1, R13, R14, R15, R16, R2, R3, R4, R6, R8, R9",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,11,100,C3508583
+R11,R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal,1,R_snub,C385291
+"R12, R19",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,2,100k,C513592
+"R18, R20",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,2,10k,C513672
+"R22, R5",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,2,1k,C513706
+U3,nRF24L01_Breakout,1,NRF24L01_Breakout,
+U4,TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical,1,L298N, C434589 
